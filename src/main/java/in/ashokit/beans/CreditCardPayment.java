@@ -10,7 +10,7 @@ public class CreditCardPayment implements IPayment {
 	
 	public boolean ProcessPayment(double billAmt) {
 		
-		//logic
+		
 		System.out.println("Credit Card Payment Successfully...");
 		return true;
  }
